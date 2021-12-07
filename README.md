@@ -10,24 +10,20 @@ Sou um estudante do 4º período de Ciências da Computação na Universidade de
 - <img align="center" alt="Kleber-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS3
 - <img align="center" alt="Kleber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
 
-<br>
 
 ## 📚 Aprendendo
 - <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React JS
 - <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/> Bootstrap  
 
-<br>
 
 ## 🛠 Veja meus projetos
 - [Pinterest Homepage](https://github.com/kleberjr/pinterest-homepage-replica)
 - Timer
 
-<br>
 
 ## 🗣 Idiomas
 - Inglês (Avançado) 
 
-<br>
 
 ## 📈 Github Stats 
 <div align="center" style="display: inline_block;">
@@ -35,8 +31,7 @@ Sou um estudante do 4º período de Ciências da Computação na Universidade de
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleberjr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleberjr&layout=compact&langs_count=5&theme=github_dark"/>
 </div>   
-
-<br>  
+  
 
 ## ✉ Redes Sociais e Contato
 <div> 
