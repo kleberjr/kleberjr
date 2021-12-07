@@ -21,10 +21,6 @@ Sou um estudante do 4º período de Ciências da Computação na Universidade de
 - Timer
 
 
-## 🗣 Idiomas
-- Inglês (Avançado) 
-
-
 ## 📈 Github Stats 
 <div align="center" style="display: inline_block;">
   <a href="https://github.com/kleberjr">
