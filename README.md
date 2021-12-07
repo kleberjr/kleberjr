@@ -18,7 +18,7 @@ Sou um estudante do 4º período de Ciências da Computação na Universidade de
 
 ## 🛠 Veja meus projetos próprios (públicos)
 - [Modern Pinterest Homepage](https://github.com/kleberjr/pinterest-homepage-replica)
-- [Timer](https://github.com/kleberjr/timer)
+- [Date Timer](https://github.com/kleberjr/timer)
 
 
 ## 📈 Github Stats 
