@@ -16,7 +16,7 @@ Sou um estudante do 4º período de Ciências da Computação na Universidade de
 - <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/> Bootstrap  
 
 
-## 🛠 Veja meus projetos
+## 🛠 Veja meus projetos (públicos)
 - [Pinterest Homepage](https://github.com/kleberjr/pinterest-homepage-replica)
 - Timer
 
