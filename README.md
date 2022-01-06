@@ -20,8 +20,8 @@ Sou um estudante do 4º período de Ciências da Computação na Universidade de
 
 ## 🛠 Veja meus projetos próprios (públicos)
 - [SquadMaker](https://github.com/kleberjr/squadmaker)
-- [Modern Pinterest Homepage](https://github.com/kleberjr/pinterest-homepage-replica)
 - [Weather Predictor](https://github.com/kleberjr/weather-predictor)
+- [Modern Pinterest Homepage](https://github.com/kleberjr/pinterest-homepage-replica)
 - [Date Timer](https://github.com/kleberjr/timer)
 
 
