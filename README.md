@@ -11,7 +11,7 @@ Sou um estudante do 4º período de Ciências da Computação na Universidade de
 - <img align="center" alt="Kleber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
 - <img align="center" alt="Kleber-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> Python
 - <img align="center" alt="Kleber-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git e Github
-- 
+
 
 ## 📚 Aprendendo
 - <img align="center" alt="Kleber-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React JS
