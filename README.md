@@ -5,17 +5,17 @@
 ## 🙋‍♂️ Sobre mim
 Sou um estudante do 4º período de Ciências da Computação na Universidade de Brasília. Atualmente estou em busca da minha primeira oportunidade no mercado de trabalho visando    atuar como Desenvolvedor Web Front-End.
  
-## 🛢 Tecnologias
+## 🛢 Habilidades e Tecnologias
 - <img align="center" alt="Kleber-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML5
 - <img align="center" alt="Kleber-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS3
 - <img align="center" alt="Kleber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
 - <img align="center" alt="Kleber-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> Python
-
+- <img align="center" alt="Kleber-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git e Github
+- 
 
 ## 📚 Aprendendo
 - <img align="center" alt="Kleber-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React JS
 <!-- - <img align="center" alt="Kleber-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/> Bootstrap --> 
-- <img align="center" alt="Kleber-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git e Github
 
 
 ## 🛠 Veja meus projetos próprios (públicos)
