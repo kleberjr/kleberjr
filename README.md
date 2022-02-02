@@ -16,8 +16,8 @@ Sou um estudante do 4º período de Ciências da Computação na Universidade de
 
 ## 📚 Aprendendo
 - <img align="center" alt="Kleber-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React JS
-- <img align="center" alt="Kleber-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> PostgreSQL
 - <img align="center" alt="Kleber-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> Java
+- <img align="center" alt="Kleber-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> PostgreSQL
 <!-- - <img align="center" alt="Kleber-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/> Bootstrap --> 
 
 
