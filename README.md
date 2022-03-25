@@ -3,7 +3,7 @@
 </div>
 
 ## 🙋‍♂️ Sobre mim
-Sou um estudante do 4º período de Ciências da Computação na Universidade de Brasília. Atualmente estou em busca da minha primeira oportunidade no mercado de trabalho visando    atuar como Desenvolvedor Web Front-End.
+Sou um estudante do 4º período de Ciências da Computação na Universidade de Brasília. Atualmente estou em busca da minha primeira oportunidade no mercado de trabalho visando atuar com Desenvolvimento Web.
  
 ## 🛢 Habilidades e Tecnologias
 - <img align="center" alt="Kleber-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML5
