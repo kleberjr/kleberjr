@@ -3,22 +3,19 @@
 </div>
 
 ## 🙋‍♂️ Sobre mim
-Sou um estudante do 4º período de Ciências da Computação na Universidade de Brasília. Atualmente estou em busca da minha primeira oportunidade no mercado de trabalho visando atuar com Desenvolvimento Web.
+Sou um estudante do 5º período de Ciências da Computação na Universidade de Brasília.
  
 ## 🛢 Habilidades e Tecnologias
 - <img align="center" alt="Kleber-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML5
 - <img align="center" alt="Kleber-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS3
 - <img align="center" alt="Kleber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
-- <img align="center" alt="Kleber-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> Python
 - <img align="center" alt="Kleber-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git e Github
 - <img align="center" alt="Kleber-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> Figma
 
 
 ## 📚 Aprendendo
-- <img align="center" alt="Kleber-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> Angular
-- <img align="center" alt="Kleber-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg"> C#
+- <img align="center" alt="Kleber-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> TypeScript
 - <img align="center" alt="Kleber-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> MySQL
-<!-- - <img align="center" alt="Kleber-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/> Bootstrap --> 
 
 
 ## 🛠 Veja meus projetos próprios (públicos)
