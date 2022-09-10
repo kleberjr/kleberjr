@@ -10,11 +10,10 @@ Sou um estudante do 5º período de Ciências da Computação na Universidade de
 - <img align="center" alt="Kleber-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS3
 - <img align="center" alt="Kleber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
 - <img align="center" alt="Kleber-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git e Github
-- <img align="center" alt="Kleber-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> Figma
 
 
 ## 📚 Aprendendo
-- <img align="center" alt="Kleber-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> TypeScript
+- <img align="center" alt="Kleber-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> PHP
 - <img align="center" alt="Kleber-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> MySQL
 
 
