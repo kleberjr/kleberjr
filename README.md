@@ -5,23 +5,23 @@
 ## 🙋‍♂️ Sobre mim
 Sou um estudante do 7º período de Ciências da Computação na Universidade de Brasília.
  
-## 🛢 Habilidades e Tecnologias
-- <img align="center" alt="Kleber-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML5
-- <img align="center" alt="Kleber-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS3
-- <img align="center" alt="Kleber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
-- <img align="center" alt="Kleber-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git e Github
+[//]: <> (## 🛢 Habilidades e Tecnologias)
+[//]: <> (- <img align="center" alt="Kleber-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML5)
+[//]: <> (- <img align="center" alt="Kleber-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS3)
+[//]: <> (- <img align="center" alt="Kleber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript)
+[//]: <> (- <img align="center" alt="Kleber-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git e Github)
 
 
-## 📚 Aprendendo
-- <img align="center" alt="Kleber-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> PHP
-- <img align="center" alt="Kleber-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> MySQL
+[//]: <> (## 📚 Aprendendo)
+[//]: <> (- <img align="center" alt="Kleber-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> PHP)
+[//]: <> (- <img align="center" alt="Kleber-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> MySQL)
 
 
-## 🛠 Veja meus projetos próprios (públicos)
-- [SquadMaker](https://github.com/kleberjr/squadmaker)
-- [Weather Predictor](https://github.com/kleberjr/weather-predictor)
-- [Modern Pinterest Homepage](https://github.com/kleberjr/pinterest-homepage-replica)
-- [Date Timer](https://github.com/kleberjr/timer)
+[//]: <> (## 🛠 Veja meus projetos próprios públicos)
+[//]: <> (- SquadMaker https://github.com/kleberjr/squadmaker)
+[//]: <> (- Weather Predictor https://github.com/kleberjr/weather-predictor)
+[//]: <> (- Modern Pinterest Homepage https://github.com/kleberjr/pinterest-homepage-replica)
+[//]: <> (- Date Timer https://github.com/kleberjr/timer)
 
 
 ## 📈 Github Stats 
