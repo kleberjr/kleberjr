@@ -3,7 +3,7 @@
 </div>
 
 ## 🙋‍♂️ Sobre mim
-Sou um estudante do 7º período de Ciências da Computação na Universidade de Brasília.
+Sou um estudante do 9º período de Ciências da Computação na Universidade de Brasília.
  
 [//]: <> (## 🛢 Habilidades e Tecnologias)
 [//]: <> (- <img align="center" alt="Kleber-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML5)
